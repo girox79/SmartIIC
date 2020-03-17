@@ -1,0 +1,22 @@
+{
+  "name": "smartiic",
+  "version": "0.0.1",
+  "description": "Smart app to be able to enjoy life. ",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/girox79/SmartIIC.git"
+  },
+  "author": "SebiTCR, girox79, Danziel2002, DanetDaniel, Tanase-yy",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/girox79/SmartIIC/issues"
+  },
+  "homepage": "https://github.com/girox79/SmartIIC#readme"
+}
